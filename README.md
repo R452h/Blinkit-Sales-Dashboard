@@ -71,7 +71,7 @@ Data has been cleaned, structured, and analyzed to extract patterns related to:
 * Improve inventory of top-rated products
 * Analyze low-rated products for potential improvements
 
-* ### 📸 Sales Performance Dashboard
+* ### 📸 BLINKIT DASHBOARD
 
 ![Blinkit Sales Dashboard](images/<img width="1920" height="1080" alt="BLINKIT DASHBOARD" src="https://github.com/user-attachments/assets/d1f6463b-8a23-4a91-a6a8-085971c7bdfb" />
 .png)
@@ -79,4 +79,4 @@ Data has been cleaned, structured, and analyzed to extract patterns related to:
 
 
 
-Let me know if you'd like this converted to a downloadable `README.md` file or want to add charts/screenshots.
+
