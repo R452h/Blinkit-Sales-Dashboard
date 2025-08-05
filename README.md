@@ -1,7 +1,3 @@
-Here’s a **professional and well-formatted GitHub README section** based on your Blinkit Data Analysis project. It follows best practices with markdown formatting and uses clear highlighting for KPIs:
-
-
-
 # 📊 Blinkit Data Analysis in Excel
 
 ## 📌 Table of Contents
