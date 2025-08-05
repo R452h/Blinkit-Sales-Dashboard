@@ -73,8 +73,8 @@ Data has been cleaned, structured, and analyzed to extract patterns related to:
 
 * ### 📸 BLINKIT DASHBOARD
 
-![Blinkit Sales Dashboard](images/<img width="1920" height="1080" alt="BLINKIT DASHBOARD" src="https://github.com/user-attachments/assets/d1f6463b-8a23-4a91-a6a8-085971c7bdfb" />
-.png)
+(images/<img width="1920" height="1080" alt="BLINKIT DASHBOARD" src="https://github.com/user-attachments/assets/d1f6463b-8a23-4a91-a6a8-085971c7bdfb" />
+
 
 
 
